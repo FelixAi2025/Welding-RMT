@@ -1,0 +1,28 @@
+ 24 files changed, 3556 insertions(+)
+ create mode 100644 .FullGood.gitignore
+ create mode 100644 .SimpleGood.gitignore
+ create mode 100644 .gitignore
+ create mode 100644 AluminumWelding/AluminumWelding.csproj
+ create mode 100644 AluminumWelding/App.config
+ create mode 100644 AluminumWelding/Form1.Designer.cs
+ create mode 100644 AluminumWelding/Form1.cs
+ create mode 100644 AluminumWelding/Form1.resx
+ create mode 100644 AluminumWelding/NLog.config
+ create mode 100644 AluminumWelding/Program.cs
+ create mode 100644 AluminumWelding/Properties/AssemblyInfo.cs
+ create mode 100644 AluminumWelding/Properties/Resources.Designer.cs
+ create mode 100644 AluminumWelding/Properties/Resources.resx
+ create mode 100644 AluminumWelding/Properties/Settings.Designer.cs
+ create mode 100644 AluminumWelding/Properties/Settings.settings
+ create mode 100644 AluminumWelding/bin/Debug/CogAcqFifoTool11.vpp
+ create mode 100644 "AluminumWelding/bin/Debug/CogAcqFifoTool11\345\275\251\350\211\262.vpp"
+ create mode 100644 "AluminumWelding/bin/Debug/ToolGroup\345\256\232\344\275\215.vpp"
+ create mode 100644 "AluminumWelding/bin/Debug/ToolGroup\350\277\220\350\241\214.vpp"
+ create mode 100644 AluminumWelding/libs/Advantech/AdamApax.NET Class Library/Class Library/Win32/Advantech.Adam.DLL
+ create mode 100644 AluminumWelding/libs/NLog.4.7.15/lib/net45/NLog.dll
+ create mode 100644 Committed List.txt
+ create mode 100644 README.md
+ create mode 100644 Welding.sln
+
+
+20251031

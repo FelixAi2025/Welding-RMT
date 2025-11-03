@@ -1,0 +1,20 @@
+.vs/ 
+*.suo  
+*.user
+*.cache
+#[Ww][Ii][Nn]32/这一句为忽略目录，那后面须跟一句反忽略目录  ![Ww][Ii][Nn]32/ 才行
+[Ww][Ii][Nn]32/* 
+![Ww][Ii][Nn]32/Advantech.Adam.DLL 
+#!AluminumWelding/libs/Advantech/AdamApax.NET Class Library/Class Library/Win32/Advantech.Adam.DLL
+[Oo]bj/  
+#[Dd]ebug/ 
+#[Bb]in/
+#AluminumWelding/bin/debug/*忽略里面的所有文件
+AluminumWelding/bin/debug/*
+!AluminumWelding/bin/debug/*.vpp 
+AluminumWelding/bin/release/*
+!AluminumWelding/bin/release/*.vpp 
+#!bin/Debug/CogAcqFifoTool11.vpp 
+#!AluminumWelding/bin/Debug/CogAcqFifoTool11.vpp 
+
+
